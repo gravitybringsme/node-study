@@ -1,0 +1,14 @@
+{
+  "name": "node-study",
+  "version": "1.0.0",
+  "description": "class101 dev",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yeonsu",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
